@@ -1,0 +1,521 @@
+﻿2026-04-29 13:55:57,303 - INFO - Worker đang lắng nghe Job...
+2026-04-29 13:56:37,423 - INFO - --- Bắt đầu Job: ccd3f304-5838-4693-9395-2e35b98b3022 ---
+2026-04-29 13:56:38,130 - INFO - Đang truy cập Shopee: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 13:57:22,699 - INFO - Cào thành công: Shopee Việt Nam | Hot Deals, Best Prices | 0 ảnh.
+2026-04-29 13:57:23,103 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 13:57:23,103 - ERROR - Render Job ccd3f304-5838-4693-9395-2e35b98b3022 thất bại.
+2026-04-29 13:59:15,517 - INFO - Worker đang lắng nghe Job...
+2026-04-29 13:59:45,679 - INFO - --- Bắt đầu Job: fd3e76d7-3145-4471-816b-25a3fc1cbc79 ---
+2026-04-29 13:59:46,334 - ERROR - Lỗi vòng lặp Worker: 'module' object is not callable
+2026-04-29 14:01:47,832 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:02:56,701 - INFO - --- Bắt đầu Job: 4963ba14-8b7e-42e2-ac31-8a5af2a9e681 ---
+2026-04-29 14:02:57,410 - ERROR - Lỗi vòng lặp Worker: 'module' object is not callable
+2026-04-29 14:04:07,503 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:04:47,649 - INFO - --- Bắt đầu Job: ab9b5ba0-1d6f-4536-9584-cd0b6f202767 ---
+2026-04-29 14:04:48,382 - INFO - Đang truy cập Shopee (Stealth Mode V3): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:04:59,443 - ERROR - Lỗi Scraper: net::ERR_NAME_NOT_RESOLVED at https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:04:59,510 - ERROR - Không thể cào dữ liệu sản phẩm.
+2026-04-29 14:05:35,547 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:10:26,457 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:10:48,404 - INFO - --- Bắt đầu Job: 79a2ec46-3619-4f32-bb30-79011e09845a ---
+2026-04-29 14:10:49,182 - ERROR - Lỗi vòng lặp Worker: 'module' object is not callable
+2026-04-29 14:11:47,389 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:21:46,607 - INFO - --- Bắt đầu Job: c094e2d0-1239-4506-932b-bafa359961f6 ---
+2026-04-29 14:21:47,740 - INFO - Đang truy cập Shopee (Stealth Mode V3): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:22:35,232 - INFO - Cào thành công: Shopee Việt Nam | Hot Deals, Best Prices | 0 ảnh.
+2026-04-29 14:22:35,676 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:22:35,677 - ERROR - Render Job c094e2d0-1239-4506-932b-bafa359961f6 thất bại.
+2026-04-29 14:23:20,501 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:23:40,578 - INFO - --- Bắt đầu Job: e78ebf1f-a4cf-4535-bb25-45e3e4f07097 ---
+2026-04-29 14:23:41,241 - INFO - Đang truy quét sâu dữ liệu Shopee: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:23:56,242 - INFO - HOÀN TẤT: Máy Nướng Bánh Máy Làm Bánh Kẹp Máy Làm Bánh Quế Bánh Tổ Ong / Máy làm bánh waffle Cao cấp | Shopee Việt Nam | 12 ảnh tìm thấy.
+2026-04-29 14:23:56,544 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:24:04,449 - ERROR - Render Job e78ebf1f-a4cf-4535-bb25-45e3e4f07097 thất bại.
+2026-04-29 14:26:19,233 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:26:39,326 - INFO - --- Bắt đầu Job: c150175d-051b-45fc-9fc8-0b59184f03b4 ---
+2026-04-29 14:26:39,973 - INFO - Đang truy quét sâu dữ liệu Shopee: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:27:07,662 - INFO - HOÀN TẤT: Máy Nướng Bánh Máy Làm Bánh Kẹp Máy Làm Bánh Quế Bánh Tổ Ong / Máy làm bánh waffle Cao cấp | 12 ảnh tìm thấy.
+2026-04-29 14:27:07,961 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:27:13,363 - ERROR - Lỗi vòng lặp Worker: 'MediaEngine' object has no attribute 'create_slideshow'
+2026-04-29 14:27:13,364 - ERROR - Traceback (most recent call last):
+  File "E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Worker\worker.py", line 57, in run
+    await self.process_job(job)
+  File "E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Worker\worker.py", line 93, in process_job
+    success = self.media.create_slideshow(local_images, script, output_path)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MediaEngine' object has no attribute 'create_slideshow'. Did you mean: 'create_video'?
+
+2026-04-29 14:36:34,325 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:37:15,270 - INFO - MediaEngine initialized. Output dir: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 14:37:15,271 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:40:29,760 - INFO - --- Bắt đầu Job: 72d6dcf3-9f7b-4547-a868-21031a1ea6c6 ---
+2026-04-29 14:40:30,582 - INFO - Đang truy quét sâu dữ liệu Shopee: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:41:28,361 - INFO - HOÀN TẤT: Máy Nướng Bánh Máy Làm Bánh Kẹp Máy Làm Bánh Quế Bánh Tổ Ong / Máy làm bánh waffle Cao cấp | Shopee Việt Nam | 12 ảnh tìm thấy.
+2026-04-29 14:41:28,698 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:41:28,698 - INFO - Bắt đầu dựng video cho Job 72d6dcf3-9f7b-4547-a868-21031a1ea6c6...
+2026-04-29 14:41:37,960 - ERROR - Không có ảnh nào được tải về thành công.
+2026-04-29 14:41:37,961 - ERROR - Render Job 72d6dcf3-9f7b-4547-a868-21031a1ea6c6 thất bại.
+2026-04-29 14:42:59,824 - INFO - MediaEngine initialized. Output dir: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 14:42:59,828 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:43:20,978 - INFO - --- Bắt đầu Job: f03d85e2-310c-4d7c-aa62-e08332afe400 ---
+2026-04-29 14:43:21,816 - INFO - Đang truy quét sâu dữ liệu Shopee: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:43:37,161 - INFO - HOÀN TẤT: Máy Nướng Bánh Máy Làm Bánh Kẹp Máy Làm Bánh Quế Bánh Tổ Ong / Máy làm bánh waffle Cao cấp | Shopee Việt Nam | 12 ảnh tìm thấy.
+2026-04-29 14:43:37,460 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:43:37,460 - INFO - Bắt đầu dựng video cho Job f03d85e2-310c-4d7c-aa62-e08332afe400...
+2026-04-29 14:43:47,055 - ERROR - Không có ảnh nào được tải về thành công.
+2026-04-29 14:43:47,059 - ERROR - Render Job f03d85e2-310c-4d7c-aa62-e08332afe400 thất bại.
+2026-04-29 14:47:00,699 - INFO - MediaEngine initialized. Output dir: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 14:47:00,700 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:49:50,252 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 14:49:50,254 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:50:29,076 - INFO - --- Bắt đầu Job: f72f7b27-c118-4952-a910-591f6ac9dbd8 ---
+2026-04-29 14:50:29,868 - INFO - Đang truy quét sâu dữ liệu Shopee: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:50:45,268 - INFO - HOÀN TẤT: Máy Nướng Bánh Máy Làm Bánh Kẹp Máy Làm Bánh Quế Bánh Tổ Ong / Máy làm bánh waffle Cao cấp | Shopee Việt Nam | 12 ảnh tìm thấy.
+2026-04-29 14:50:45,548 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:50:45,548 - INFO - Bắt đầu dựng video cho Job f72f7b27-c118-4952-a910-591f6ac9dbd8...
+2026-04-29 14:50:53,951 - ERROR - Không có ảnh nào được tải về thành công.
+2026-04-29 14:50:53,952 - ERROR - Render Job f72f7b27-c118-4952-a910-591f6ac9dbd8 thất bại.
+2026-04-29 14:53:03,061 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 14:53:03,063 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:53:52,457 - INFO - --- Bắt đầu Job: a035c17b-67c7-4777-a9c5-83532eaf3f18 ---
+2026-04-29 14:53:53,194 - INFO - Đang tìm kiếm link ảnh thật: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:54:07,998 - INFO - HOÀN TẤT: Tìm thấy 1 ảnh chuẩn.
+2026-04-29 14:54:08,323 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:54:08,323 - INFO - Đang dựng video 15s cho Job a035c17b-67c7-4777-a9c5-83532eaf3f18...
+2026-04-29 14:54:08,976 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_a035c17b-67c7-4777-a9c5-83532eaf3f18.mp4
+2026-04-29 14:54:17,257 - INFO - Hoàn thành Job a035c17b-67c7-4777-a9c5-83532eaf3f18 rực rỡ!
+2026-04-29 14:56:34,685 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 14:56:34,691 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:56:51,307 - INFO - --- Bắt đầu Job: a195f58b-1ec7-48bd-9e2a-875b1911745d ---
+2026-04-29 14:56:52,063 - INFO - Đang truy quét sâu dữ liệu Shopee: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:57:07,234 - INFO - HOÀN TẤT: Máy Nướng Bánh Máy Làm Bánh Kẹp Máy Làm Bánh Quế Bánh Tổ Ong / Máy làm bánh waffle Cao cấp | Shopee Việt Nam | 12 ảnh tìm thấy.
+2026-04-29 14:57:07,477 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:57:07,477 - INFO - Bắt đầu dựng video cho Job a195f58b-1ec7-48bd-9e2a-875b1911745d...
+2026-04-29 14:57:14,081 - ERROR - Không có ảnh nào được tải về thành công.
+2026-04-29 14:57:14,083 - ERROR - Render Job a195f58b-1ec7-48bd-9e2a-875b1911745d thất bại.
+2026-04-29 14:57:33,547 - INFO - --- Bắt đầu Job: 06927f4c-c213-45eb-8a98-e55012e8be8a ---
+2026-04-29 14:57:34,378 - INFO - Đang tìm kiếm link ảnh thật: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:57:49,907 - INFO - HOÀN TẤT: Tìm thấy 1 ảnh chuẩn.
+2026-04-29 14:57:50,254 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:57:50,256 - INFO - Bắt đầu dựng video cho Job 06927f4c-c213-45eb-8a98-e55012e8be8a...
+2026-04-29 14:57:50,540 - WARNING - Lỗi tạo TextClip (Có thể do thiếu ImageMagick): MoviePy Error: creation of None failed because of the following error:
+
+[WinError 2] The system cannot find the file specified.
+
+.This error can be due to the fact that ImageMagick is not installed on your computer, or (for Windows users) that you didn't specify the path to the ImageMagick binary in file conf.py, or that the path you specified is incorrect
+2026-04-29 14:57:50,557 - INFO - Đang xuất file video: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_06927f4c-c213-45eb-8a98-e55012e8be8a.mp4
+2026-04-29 14:57:52,551 - INFO - Hoàn thành Job 06927f4c-c213-45eb-8a98-e55012e8be8a rực rỡ!
+2026-04-29 14:58:56,060 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 14:58:56,061 - INFO - Worker đang lắng nghe Job...
+2026-04-29 14:59:16,143 - INFO - --- Bắt đầu Job: 846a632e-fca9-40df-a0a7-792e6899ff45 ---
+2026-04-29 14:59:16,892 - INFO - Đang tìm kiếm link ảnh thật: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 14:59:32,194 - INFO - HOÀN TẤT: Tìm thấy 1 ảnh chuẩn.
+2026-04-29 14:59:32,613 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 14:59:32,614 - INFO - Đang dựng video 15s cho Job 846a632e-fca9-40df-a0a7-792e6899ff45...
+2026-04-29 14:59:33,381 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_846a632e-fca9-40df-a0a7-792e6899ff45.mp4
+2026-04-29 14:59:42,182 - INFO - Hoàn thành Job 846a632e-fca9-40df-a0a7-792e6899ff45 rực rỡ!
+2026-04-29 15:01:08,377 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:01:08,378 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:01:58,527 - INFO - --- Bắt đầu Job: 6bb8ebd8-b707-4d68-8fcb-ba9d439cece9 ---
+2026-04-29 15:01:59,339 - INFO - Đang tìm kiếm link ảnh thật: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:02:14,904 - INFO - HOÀN TẤT: Tìm thấy 1 ảnh chuẩn.
+2026-04-29 15:02:15,286 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:02:15,286 - INFO - Đang dựng video 15s cho Job 6bb8ebd8-b707-4d68-8fcb-ba9d439cece9...
+2026-04-29 15:02:15,819 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_6bb8ebd8-b707-4d68-8fcb-ba9d439cece9.mp4
+2026-04-29 15:02:23,342 - INFO - Hoàn thành Job 6bb8ebd8-b707-4d68-8fcb-ba9d439cece9 rực rỡ!
+2026-04-29 15:02:32,324 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:02:32,324 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:02:42,397 - INFO - --- Bắt đầu Job: ace38906-bab2-409f-877e-b44fb26e7b63 ---
+2026-04-29 15:02:43,115 - INFO - Đang tìm kiếm link ảnh thật: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:03:38,278 - INFO - HOÀN TẤT: Tìm thấy 1 ảnh chuẩn.
+2026-04-29 15:03:38,692 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:03:38,692 - INFO - Đang dựng video 15s cho Job ace38906-bab2-409f-877e-b44fb26e7b63...
+2026-04-29 15:03:38,944 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_ace38906-bab2-409f-877e-b44fb26e7b63.mp4
+2026-04-29 15:03:45,175 - INFO - Hoàn thành Job ace38906-bab2-409f-877e-b44fb26e7b63 rực rỡ!
+2026-04-29 15:06:57,321 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:06:57,321 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:07:09,347 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:07:09,348 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:07:19,411 - INFO - --- Bắt đầu Job: fc2d9f69-1292-452d-886a-da3a4b627b40 ---
+2026-04-29 15:07:20,104 - INFO - Đang tìm kiếm link ảnh thật: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:07:34,771 - INFO - HOÀN TẤT: Tìm thấy 1 ảnh chuẩn.
+2026-04-29 15:07:35,063 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:07:35,063 - INFO - Đang dựng video 15s cho Job fc2d9f69-1292-452d-886a-da3a4b627b40...
+2026-04-29 15:07:35,624 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_fc2d9f69-1292-452d-886a-da3a4b627b40.mp4
+2026-04-29 15:07:41,718 - INFO - Hoàn thành Job fc2d9f69-1292-452d-886a-da3a4b627b40 rực rỡ!
+2026-04-29 15:08:45,327 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:08:45,328 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:08:55,376 - INFO - --- Bắt đầu Job: d938f313-c25b-4135-a89b-0cbb9e34a1ff ---
+2026-04-29 15:08:55,992 - INFO - Đang tìm kiếm link ảnh thật: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:09:10,711 - INFO - HOÀN TẤT: Tìm thấy 1 ảnh chuẩn.
+2026-04-29 15:09:18,578 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:09:18,578 - INFO - Đang dựng video 15s cho Job d938f313-c25b-4135-a89b-0cbb9e34a1ff...
+2026-04-29 15:09:18,853 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_d938f313-c25b-4135-a89b-0cbb9e34a1ff.mp4
+2026-04-29 15:09:24,224 - INFO - Hoàn thành Job d938f313-c25b-4135-a89b-0cbb9e34a1ff rực rỡ!
+2026-04-29 15:10:29,245 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:10:29,245 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:10:44,309 - INFO - --- Bắt đầu Job: cd643423-4942-4e94-8ec6-d81d02f48e63 ---
+2026-04-29 15:10:45,008 - INFO - Đang truy quét toàn diện ảnh: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:10:59,687 - INFO - HOÀN TẤT: Đã lấy lại được 12 ảnh.
+2026-04-29 15:11:03,869 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:11:03,869 - INFO - Đang dựng video 15s cho Job cd643423-4942-4e94-8ec6-d81d02f48e63...
+2026-04-29 15:11:05,301 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/cfda4661f749a18b9773cb82d5fea639
+2026-04-29 15:11:06,402 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/a5d1f0ec50dfb01a8f66086733613696
+2026-04-29 15:11:06,952 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/fe5dceeb8c440326ca3340240183c965
+2026-04-29 15:11:07,457 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/a4d4f25de385e05a506e0b6dd6facfc1
+2026-04-29 15:11:08,004 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/0c0961935d9e447a5d6737d0997b6b49
+2026-04-29 15:11:08,867 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/489e2c39310ae7e2b3a7311a1d33929f
+2026-04-29 15:11:09,694 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/d08c13e4fd1bf1b5ddc5b7933dc779fa
+2026-04-29 15:11:10,486 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/9c9cd4366011639d86dcf03856866b39
+2026-04-29 15:11:11,299 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/350d4cdc7ba40b87541691005bda74c5
+2026-04-29 15:11:12,073 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/2c5cdee36e5b98ec3f795c6f9df4ffc8
+2026-04-29 15:11:12,593 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/f44e615f797f93e5634bc97d3961fd39
+2026-04-29 15:11:12,677 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_cd643423-4942-4e94-8ec6-d81d02f48e63.mp4
+2026-04-29 15:11:18,812 - INFO - Hoàn thành Job cd643423-4942-4e94-8ec6-d81d02f48e63 rực rỡ!
+2026-04-29 15:14:14,203 - INFO - --- Bắt đầu Job: e97a31cd-1c84-4aec-b9f3-f479599cb8d2 ---
+2026-04-29 15:14:14,885 - INFO - Đang truy quét toàn diện ảnh: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:14:29,405 - INFO - HOÀN TẤT: Đã lấy lại được 12 ảnh.
+2026-04-29 15:14:36,330 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:14:36,330 - INFO - Đang dựng video 15s cho Job e97a31cd-1c84-4aec-b9f3-f479599cb8d2...
+2026-04-29 15:14:37,621 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/cfda4661f749a18b9773cb82d5fea639
+2026-04-29 15:14:38,376 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/a5d1f0ec50dfb01a8f66086733613696
+2026-04-29 15:14:39,299 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/fe5dceeb8c440326ca3340240183c965
+2026-04-29 15:14:39,969 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/a4d4f25de385e05a506e0b6dd6facfc1
+2026-04-29 15:14:40,621 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/0c0961935d9e447a5d6737d0997b6b49
+2026-04-29 15:14:41,568 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/489e2c39310ae7e2b3a7311a1d33929f
+2026-04-29 15:14:42,268 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/d08c13e4fd1bf1b5ddc5b7933dc779fa
+2026-04-29 15:14:42,917 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/9c9cd4366011639d86dcf03856866b39
+2026-04-29 15:14:43,718 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/350d4cdc7ba40b87541691005bda74c5
+2026-04-29 15:14:44,418 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/2c5cdee36e5b98ec3f795c6f9df4ffc8
+2026-04-29 15:14:44,964 - WARNING - Tải ảnh lỗi 404: https://down-vn.img.susercontent.com/file/f44e615f797f93e5634bc97d3961fd39
+2026-04-29 15:14:45,017 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_e97a31cd-1c84-4aec-b9f3-f479599cb8d2.mp4
+2026-04-29 15:14:51,459 - INFO - Hoàn thành Job e97a31cd-1c84-4aec-b9f3-f479599cb8d2 rực rỡ!
+2026-04-29 15:16:03,585 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:16:03,585 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:16:08,634 - INFO - --- Bắt đầu Job: 311e79d7-2b41-4001-9b13-12680ebe5813 ---
+2026-04-29 15:16:09,317 - INFO - Đang tìm kiếm ảnh bằng thuật toán mới: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:17:04,941 - INFO - HOÀN TẤT: Đã tìm thấy 1 ứng viên ảnh.
+2026-04-29 15:17:17,292 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:17:17,292 - INFO - Đang dựng video 15s cho Job 311e79d7-2b41-4001-9b13-12680ebe5813...
+2026-04-29 15:17:17,597 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_311e79d7-2b41-4001-9b13-12680ebe5813.mp4
+2026-04-29 15:17:24,584 - INFO - Hoàn thành Job 311e79d7-2b41-4001-9b13-12680ebe5813 rực rỡ!
+2026-04-29 15:19:39,229 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:19:39,234 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:21:39,576 - INFO - --- Bắt đầu Job: 7b8d0917-598d-419a-b7dd-6bb9165d4469 ---
+2026-04-29 15:21:40,317 - INFO - Đang truy quét sâu mọi định dạng ảnh: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:21:55,630 - INFO - HOÀN TẤT: Tìm thấy 1 ảnh tiềm năng.
+2026-04-29 15:22:03,935 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:22:03,935 - INFO - Đang dựng video 15s cho Job 7b8d0917-598d-419a-b7dd-6bb9165d4469...
+2026-04-29 15:22:04,192 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_7b8d0917-598d-419a-b7dd-6bb9165d4469.mp4
+2026-04-29 15:22:10,609 - INFO - Hoàn thành Job 7b8d0917-598d-419a-b7dd-6bb9165d4469 rực rỡ!
+2026-04-29 15:23:16,257 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:23:16,259 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:23:26,333 - INFO - --- Bắt đầu Job: 5adc48bb-586c-4142-be59-6bf33ad6d3da ---
+2026-04-29 15:23:27,063 - INFO - Đang thực hiện cuộn trang để 'ép' Shopee hiện toàn bộ ảnh: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:24:19,219 - INFO - KẾT QUẢ: Đã tìm thấy 15 ảnh sau khi cuộn trang.
+2026-04-29 15:24:19,510 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:24:19,510 - INFO - Đang dựng video 15s cho Job 5adc48bb-586c-4142-be59-6bf33ad6d3da...
+2026-04-29 15:24:21,137 - WARNING - Không thể tải ảnh cfda4661f749a18b9773cb82d5fea639 từ bất kỳ server nào.
+2026-04-29 15:24:22,954 - WARNING - Không thể tải ảnh a5d1f0ec50dfb01a8f66086733613696 từ bất kỳ server nào.
+2026-04-29 15:24:24,453 - WARNING - Không thể tải ảnh fe5dceeb8c440326ca3340240183c965 từ bất kỳ server nào.
+2026-04-29 15:24:26,010 - WARNING - Không thể tải ảnh a4d4f25de385e05a506e0b6dd6facfc1 từ bất kỳ server nào.
+2026-04-29 15:24:27,653 - WARNING - Không thể tải ảnh 0c0961935d9e447a5d6737d0997b6b49 từ bất kỳ server nào.
+2026-04-29 15:24:29,563 - WARNING - Không thể tải ảnh 489e2c39310ae7e2b3a7311a1d33929f từ bất kỳ server nào.
+2026-04-29 15:24:31,268 - WARNING - Không thể tải ảnh d08c13e4fd1bf1b5ddc5b7933dc779fa từ bất kỳ server nào.
+2026-04-29 15:24:33,040 - WARNING - Không thể tải ảnh 9c9cd4366011639d86dcf03856866b39 từ bất kỳ server nào.
+2026-04-29 15:24:34,627 - WARNING - Không thể tải ảnh 350d4cdc7ba40b87541691005bda74c5 từ bất kỳ server nào.
+2026-04-29 15:24:36,560 - WARNING - Không thể tải ảnh 2c5cdee36e5b98ec3f795c6f9df4ffc8 từ bất kỳ server nào.
+2026-04-29 15:24:38,128 - WARNING - Không thể tải ảnh f44e615f797f93e5634bc97d3961fd39 từ bất kỳ server nào.
+2026-04-29 15:24:39,651 - WARNING - Không thể tải ảnh f5dea1724656a489b28cf2b7369c6e89 từ bất kỳ server nào.
+2026-04-29 15:24:41,362 - WARNING - Không thể tải ảnh 45aaf8f75c311170c80a8371bce20b86 từ bất kỳ server nào.
+2026-04-29 15:24:43,050 - WARNING - Không thể tải ảnh b99baee59858233c9c96650b85a837a1 từ bất kỳ server nào.
+2026-04-29 15:24:44,757 - WARNING - Không thể tải ảnh 3f0f9d4dcc66b0ef22fabd190b7b9347 từ bất kỳ server nào.
+2026-04-29 15:24:44,761 - ERROR - Render Job 5adc48bb-586c-4142-be59-6bf33ad6d3da thất bại.
+2026-04-29 15:27:11,278 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:27:11,278 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:28:06,421 - INFO - --- Bắt đầu Job: 458264e5-8945-4300-a4d3-9919e73201b9 ---
+2026-04-29 15:28:07,177 - INFO - Đang phân tích DOM để lấy ảnh sản phẩm: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:28:14,466 - INFO - KẾT QUẢ DOM: Tìm thấy 12 ảnh chuẩn.
+2026-04-29 15:28:14,768 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:28:14,769 - INFO - Đang dựng video 15s cho Job 458264e5-8945-4300-a4d3-9919e73201b9...
+2026-04-29 15:28:16,061 - WARNING - Không thể tải ảnh cfda4661f749a18b9773cb82d5fea639 từ bất kỳ server nào.
+2026-04-29 15:28:17,374 - WARNING - Không thể tải ảnh a5d1f0ec50dfb01a8f66086733613696 từ bất kỳ server nào.
+2026-04-29 15:28:18,563 - WARNING - Không thể tải ảnh fe5dceeb8c440326ca3340240183c965 từ bất kỳ server nào.
+2026-04-29 15:28:19,734 - WARNING - Không thể tải ảnh a4d4f25de385e05a506e0b6dd6facfc1 từ bất kỳ server nào.
+2026-04-29 15:28:20,908 - WARNING - Không thể tải ảnh 0c0961935d9e447a5d6737d0997b6b49 từ bất kỳ server nào.
+2026-04-29 15:28:22,044 - WARNING - Không thể tải ảnh 489e2c39310ae7e2b3a7311a1d33929f từ bất kỳ server nào.
+2026-04-29 15:28:23,156 - WARNING - Không thể tải ảnh d08c13e4fd1bf1b5ddc5b7933dc779fa từ bất kỳ server nào.
+2026-04-29 15:28:24,345 - WARNING - Không thể tải ảnh 9c9cd4366011639d86dcf03856866b39 từ bất kỳ server nào.
+2026-04-29 15:28:25,468 - WARNING - Không thể tải ảnh 350d4cdc7ba40b87541691005bda74c5 từ bất kỳ server nào.
+2026-04-29 15:28:26,580 - WARNING - Không thể tải ảnh 2c5cdee36e5b98ec3f795c6f9df4ffc8 từ bất kỳ server nào.
+2026-04-29 15:28:27,779 - WARNING - Không thể tải ảnh f44e615f797f93e5634bc97d3961fd39 từ bất kỳ server nào.
+2026-04-29 15:28:29,080 - WARNING - Không thể tải ảnh f5dea1724656a489b28cf2b7369c6e89 từ bất kỳ server nào.
+2026-04-29 15:28:29,081 - ERROR - Render Job 458264e5-8945-4300-a4d3-9919e73201b9 thất bại.
+2026-04-29 15:44:05,324 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:44:05,326 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:54:36,621 - INFO - --- Bắt đầu Job: 81447121-1cff-47b7-9848-27e196d5484b ---
+2026-04-29 15:54:37,793 - INFO - Đang truy quét ảnh Shopee bằng Selector chuẩn: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:54:45,790 - INFO - KẾT QUẢ: Đã bốc thành công 12 ảnh chất lượng cao.
+2026-04-29 15:54:46,061 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:54:46,061 - INFO - Đang dựng video 15s cho Job 81447121-1cff-47b7-9848-27e196d5484b...
+2026-04-29 15:54:48,006 - WARNING - Không thể tải ảnh apple-mobile-web-app-status-bar-style từ bất kỳ server nào.
+2026-04-29 15:54:49,832 - WARNING - Không thể tải ảnh mobilemall-buyernotimobiledefault-emailsubscription từ bất kỳ server nào.
+2026-04-29 15:54:51,604 - WARNING - Không thể tải ảnh mobilemall-buyernotimobiledefault-notificationsetting từ bất kỳ server nào.
+2026-04-29 15:54:53,371 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-accountsetting từ bất kỳ server nào.
+2026-04-29 15:54:55,145 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-languagesetting từ bất kỳ server nào.
+2026-04-29 15:54:56,876 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-paymentlock từ bất kỳ server nào.
+2026-04-29 15:54:58,692 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-sgkycflytheflag từ bất kỳ server nào.
+2026-04-29 15:55:00,457 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-sgkycseniors từ bất kỳ server nào.
+2026-04-29 15:55:02,428 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-sizeprofile từ bất kỳ server nào.
+2026-04-29 15:55:04,290 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-userprofile từ bất kỳ server nào.
+2026-04-29 15:55:06,201 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-usersettingprivacy từ bất kỳ server nào.
+2026-04-29 15:55:08,071 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-usershopfollow từ bất kỳ server nào.
+2026-04-29 15:55:08,071 - ERROR - Render Job 81447121-1cff-47b7-9848-27e196d5484b thất bại.
+2026-04-29 15:59:06,319 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 15:59:06,320 - INFO - Worker đang lắng nghe Job...
+2026-04-29 15:59:11,385 - INFO - --- Bắt đầu Job: 1670299e-1efb-4640-96db-d1ab65aafea2 ---
+2026-04-29 15:59:12,355 - INFO - Đang truy quét ảnh Shopee bằng Selector chuẩn: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 15:59:16,976 - INFO - KẾT QUẢ: Đã bốc thành công 12 ảnh chất lượng cao.
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 1: https://down-vn.img.susercontent.com/file/apple-mobile-web-app-status-bar-style
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 2: https://down-vn.img.susercontent.com/file/mobilemall-buyernotimobiledefault-emailsubscription
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 3: https://down-vn.img.susercontent.com/file/mobilemall-buyernotimobiledefault-notificationsetting
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 4: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-accountsetting
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 5: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-languagesetting
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 6: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-paymentlock
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 7: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-sgkycflytheflag
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 8: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-sgkycseniors
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 9: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-sizeprofile
+2026-04-29 15:59:16,976 - INFO - 📸 Ảnh 10: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-userprofile
+2026-04-29 15:59:16,980 - INFO - 📸 Ảnh 11: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-usersettingprivacy
+2026-04-29 15:59:16,980 - INFO - 📸 Ảnh 12: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-usershopfollow
+2026-04-29 15:59:48,292 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 15:59:48,296 - INFO - Đang dựng video 15s cho Job 1670299e-1efb-4640-96db-d1ab65aafea2...
+2026-04-29 15:59:51,158 - WARNING - Không thể tải ảnh apple-mobile-web-app-status-bar-style từ bất kỳ server nào.
+2026-04-29 15:59:53,928 - WARNING - Không thể tải ảnh mobilemall-buyernotimobiledefault-emailsubscription từ bất kỳ server nào.
+2026-04-29 15:59:56,480 - WARNING - Không thể tải ảnh mobilemall-buyernotimobiledefault-notificationsetting từ bất kỳ server nào.
+2026-04-29 15:59:59,226 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-accountsetting từ bất kỳ server nào.
+2026-04-29 16:00:01,967 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-languagesetting từ bất kỳ server nào.
+2026-04-29 16:00:04,691 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-paymentlock từ bất kỳ server nào.
+2026-04-29 16:00:07,701 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-sgkycflytheflag từ bất kỳ server nào.
+2026-04-29 16:00:10,490 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-sgkycseniors từ bất kỳ server nào.
+2026-04-29 16:00:13,459 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-sizeprofile từ bất kỳ server nào.
+2026-04-29 16:00:16,407 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-userprofile từ bất kỳ server nào.
+2026-04-29 16:00:19,163 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-usersettingprivacy từ bất kỳ server nào.
+2026-04-29 16:00:21,906 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-usershopfollow từ bất kỳ server nào.
+2026-04-29 16:00:21,909 - ERROR - Render Job 1670299e-1efb-4640-96db-d1ab65aafea2 thất bại.
+2026-04-29 16:03:18,900 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:03:18,901 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:03:23,959 - INFO - --- Bắt đầu Job: 84f4f2de-e470-445c-b41c-414b68625c71 ---
+2026-04-29 16:03:24,631 - INFO - Đang truy quét ảnh Shopee bằng Selector chuẩn: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:03:29,300 - INFO - KẾT QUẢ: Đã bốc thành công 12 ảnh chất lượng cao.
+2026-04-29 16:03:29,300 - INFO - 📸 Ảnh 1: https://down-vn.img.susercontent.com/file/apple-mobile-web-app-status-bar-style
+2026-04-29 16:03:29,300 - INFO - 📸 Ảnh 2: https://down-vn.img.susercontent.com/file/mobilemall-buyernotimobiledefault-emailsubscription
+2026-04-29 16:03:29,300 - INFO - 📸 Ảnh 3: https://down-vn.img.susercontent.com/file/mobilemall-buyernotimobiledefault-notificationsetting
+2026-04-29 16:03:29,301 - INFO - 📸 Ảnh 4: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-accountsetting
+2026-04-29 16:03:29,301 - INFO - 📸 Ảnh 5: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-languagesetting
+2026-04-29 16:03:29,301 - INFO - 📸 Ảnh 6: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-paymentlock
+2026-04-29 16:03:29,301 - INFO - 📸 Ảnh 7: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-sgkycflytheflag
+2026-04-29 16:03:29,301 - INFO - 📸 Ảnh 8: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-sgkycseniors
+2026-04-29 16:03:29,301 - INFO - 📸 Ảnh 9: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-sizeprofile
+2026-04-29 16:03:29,301 - INFO - 📸 Ảnh 10: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-userprofile
+2026-04-29 16:03:29,301 - INFO - 📸 Ảnh 11: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-usersettingprivacy
+2026-04-29 16:03:29,301 - INFO - 📸 Ảnh 12: https://down-vn.img.susercontent.com/file/mobilemall-buyerusermobiledefault-usershopfollow
+2026-04-29 16:03:29,669 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:03:29,669 - INFO - Đang dựng video 15s cho Job 84f4f2de-e470-445c-b41c-414b68625c71...
+2026-04-29 16:03:32,012 - WARNING - Không thể tải ảnh apple-mobile-web-app-status-bar-style từ bất kỳ server nào.
+2026-04-29 16:03:34,221 - WARNING - Không thể tải ảnh mobilemall-buyernotimobiledefault-emailsubscription từ bất kỳ server nào.
+2026-04-29 16:03:36,326 - WARNING - Không thể tải ảnh mobilemall-buyernotimobiledefault-notificationsetting từ bất kỳ server nào.
+2026-04-29 16:03:38,392 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-accountsetting từ bất kỳ server nào.
+2026-04-29 16:03:40,440 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-languagesetting từ bất kỳ server nào.
+2026-04-29 16:03:42,556 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-paymentlock từ bất kỳ server nào.
+2026-04-29 16:03:44,518 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-sgkycflytheflag từ bất kỳ server nào.
+2026-04-29 16:03:46,413 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-sgkycseniors từ bất kỳ server nào.
+2026-04-29 16:03:48,386 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-sizeprofile từ bất kỳ server nào.
+2026-04-29 16:03:50,513 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-userprofile từ bất kỳ server nào.
+2026-04-29 16:03:52,718 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-usersettingprivacy từ bất kỳ server nào.
+2026-04-29 16:03:54,710 - WARNING - Không thể tải ảnh mobilemall-buyerusermobiledefault-usershopfollow từ bất kỳ server nào.
+2026-04-29 16:03:54,710 - ERROR - Render Job 84f4f2de-e470-445c-b41c-414b68625c71 thất bại.
+2026-04-29 16:05:57,648 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:05:57,649 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:06:07,715 - INFO - --- Bắt đầu Job: 623f54ca-3087-4159-8f7f-e27b2ca9667c ---
+2026-04-29 16:06:08,385 - INFO - Đang truy quét ảnh sản phẩm (Chế độ lọc cao cấp): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:06:54,656 - INFO - KẾT QUẢ: Đã lọc được 12 ảnh sản phẩm XỊN.
+2026-04-29 16:06:54,656 - INFO - 📸 Ảnh 1: https://down-vn.img.susercontent.com/file/cfda4661f749a18b9773cb82d5fea639
+2026-04-29 16:06:54,657 - INFO - 📸 Ảnh 2: https://down-vn.img.susercontent.com/file/a5d1f0ec50dfb01a8f66086733613696
+2026-04-29 16:06:54,657 - INFO - 📸 Ảnh 3: https://down-vn.img.susercontent.com/file/fe5dceeb8c440326ca3340240183c965
+2026-04-29 16:06:54,657 - INFO - 📸 Ảnh 4: https://down-vn.img.susercontent.com/file/a4d4f25de385e05a506e0b6dd6facfc1
+2026-04-29 16:06:54,657 - INFO - 📸 Ảnh 5: https://down-vn.img.susercontent.com/file/0c0961935d9e447a5d6737d0997b6b49
+2026-04-29 16:06:54,657 - INFO - 📸 Ảnh 6: https://down-vn.img.susercontent.com/file/489e2c39310ae7e2b3a7311a1d33929f
+2026-04-29 16:06:54,657 - INFO - 📸 Ảnh 7: https://down-vn.img.susercontent.com/file/d08c13e4fd1bf1b5ddc5b7933dc779fa
+2026-04-29 16:06:54,657 - INFO - 📸 Ảnh 8: https://down-vn.img.susercontent.com/file/9c9cd4366011639d86dcf03856866b39
+2026-04-29 16:06:54,657 - INFO - 📸 Ảnh 9: https://down-vn.img.susercontent.com/file/350d4cdc7ba40b87541691005bda74c5
+2026-04-29 16:06:54,657 - INFO - 📸 Ảnh 10: https://down-vn.img.susercontent.com/file/2c5cdee36e5b98ec3f795c6f9df4ffc8
+2026-04-29 16:06:54,658 - INFO - 📸 Ảnh 11: https://down-vn.img.susercontent.com/file/f44e615f797f93e5634bc97d3961fd39
+2026-04-29 16:06:54,658 - INFO - 📸 Ảnh 12: https://down-vn.img.susercontent.com/file/f5dea1724656a489b28cf2b7369c6e89
+2026-04-29 16:06:54,981 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:06:54,981 - INFO - Đang dựng video 15s cho Job 623f54ca-3087-4159-8f7f-e27b2ca9667c...
+2026-04-29 16:06:57,101 - WARNING - Không thể tải ảnh cfda4661f749a18b9773cb82d5fea639 từ bất kỳ server nào.
+2026-04-29 16:06:58,844 - WARNING - Không thể tải ảnh a5d1f0ec50dfb01a8f66086733613696 từ bất kỳ server nào.
+2026-04-29 16:07:00,321 - WARNING - Không thể tải ảnh fe5dceeb8c440326ca3340240183c965 từ bất kỳ server nào.
+2026-04-29 16:07:02,637 - WARNING - Không thể tải ảnh a4d4f25de385e05a506e0b6dd6facfc1 từ bất kỳ server nào.
+2026-04-29 16:07:04,371 - WARNING - Không thể tải ảnh 0c0961935d9e447a5d6737d0997b6b49 từ bất kỳ server nào.
+2026-04-29 16:07:05,947 - WARNING - Không thể tải ảnh 489e2c39310ae7e2b3a7311a1d33929f từ bất kỳ server nào.
+2026-04-29 16:07:07,683 - WARNING - Không thể tải ảnh d08c13e4fd1bf1b5ddc5b7933dc779fa từ bất kỳ server nào.
+2026-04-29 16:07:09,456 - WARNING - Không thể tải ảnh 9c9cd4366011639d86dcf03856866b39 từ bất kỳ server nào.
+2026-04-29 16:07:11,214 - WARNING - Không thể tải ảnh 350d4cdc7ba40b87541691005bda74c5 từ bất kỳ server nào.
+2026-04-29 16:07:12,825 - WARNING - Không thể tải ảnh 2c5cdee36e5b98ec3f795c6f9df4ffc8 từ bất kỳ server nào.
+2026-04-29 16:07:14,628 - WARNING - Không thể tải ảnh f44e615f797f93e5634bc97d3961fd39 từ bất kỳ server nào.
+2026-04-29 16:07:16,157 - WARNING - Không thể tải ảnh f5dea1724656a489b28cf2b7369c6e89 từ bất kỳ server nào.
+2026-04-29 16:07:16,158 - ERROR - Render Job 623f54ca-3087-4159-8f7f-e27b2ca9667c thất bại.
+2026-04-29 16:08:52,022 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:08:52,023 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:09:07,109 - INFO - --- Bắt đầu Job: c0b72b83-5a60-4884-a381-eb361e6855c7 ---
+2026-04-29 16:09:07,759 - INFO - Đang truy quét ảnh sản phẩm (Chế độ lọc cao cấp): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:09:13,703 - INFO - KẾT QUẢ: Đã lọc được 12 ảnh sản phẩm XỊN.
+2026-04-29 16:09:13,703 - INFO - 📸 Ảnh 1: https://down-vn.img.susercontent.com/file/cfda4661f749a18b9773cb82d5fea639
+2026-04-29 16:09:13,703 - INFO - 📸 Ảnh 2: https://down-vn.img.susercontent.com/file/a5d1f0ec50dfb01a8f66086733613696
+2026-04-29 16:09:13,703 - INFO - 📸 Ảnh 3: https://down-vn.img.susercontent.com/file/fe5dceeb8c440326ca3340240183c965
+2026-04-29 16:09:13,705 - INFO - 📸 Ảnh 4: https://down-vn.img.susercontent.com/file/a4d4f25de385e05a506e0b6dd6facfc1
+2026-04-29 16:09:13,705 - INFO - 📸 Ảnh 5: https://down-vn.img.susercontent.com/file/0c0961935d9e447a5d6737d0997b6b49
+2026-04-29 16:09:13,705 - INFO - 📸 Ảnh 6: https://down-vn.img.susercontent.com/file/489e2c39310ae7e2b3a7311a1d33929f
+2026-04-29 16:09:13,705 - INFO - 📸 Ảnh 7: https://down-vn.img.susercontent.com/file/d08c13e4fd1bf1b5ddc5b7933dc779fa
+2026-04-29 16:09:13,705 - INFO - 📸 Ảnh 8: https://down-vn.img.susercontent.com/file/9c9cd4366011639d86dcf03856866b39
+2026-04-29 16:09:13,705 - INFO - 📸 Ảnh 9: https://down-vn.img.susercontent.com/file/350d4cdc7ba40b87541691005bda74c5
+2026-04-29 16:09:13,705 - INFO - 📸 Ảnh 10: https://down-vn.img.susercontent.com/file/2c5cdee36e5b98ec3f795c6f9df4ffc8
+2026-04-29 16:09:13,705 - INFO - 📸 Ảnh 11: https://down-vn.img.susercontent.com/file/f44e615f797f93e5634bc97d3961fd39
+2026-04-29 16:09:13,705 - INFO - 📸 Ảnh 12: https://down-vn.img.susercontent.com/file/f5dea1724656a489b28cf2b7369c6e89
+2026-04-29 16:09:14,053 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:09:14,054 - INFO - Đang dựng video 15s cho Job c0b72b83-5a60-4884-a381-eb361e6855c7...
+2026-04-29 16:09:15,753 - WARNING - Không thể tải ảnh cfda4661f749a18b9773cb82d5fea639 từ bất kỳ server nào.
+2026-04-29 16:09:17,075 - WARNING - Không thể tải ảnh a5d1f0ec50dfb01a8f66086733613696 từ bất kỳ server nào.
+2026-04-29 16:09:18,445 - WARNING - Không thể tải ảnh fe5dceeb8c440326ca3340240183c965 từ bất kỳ server nào.
+2026-04-29 16:09:19,835 - WARNING - Không thể tải ảnh a4d4f25de385e05a506e0b6dd6facfc1 từ bất kỳ server nào.
+2026-04-29 16:09:21,403 - WARNING - Không thể tải ảnh 0c0961935d9e447a5d6737d0997b6b49 từ bất kỳ server nào.
+2026-04-29 16:09:23,069 - WARNING - Không thể tải ảnh 489e2c39310ae7e2b3a7311a1d33929f từ bất kỳ server nào.
+2026-04-29 16:09:24,481 - WARNING - Không thể tải ảnh d08c13e4fd1bf1b5ddc5b7933dc779fa từ bất kỳ server nào.
+2026-04-29 16:09:25,991 - WARNING - Không thể tải ảnh 9c9cd4366011639d86dcf03856866b39 từ bất kỳ server nào.
+2026-04-29 16:09:27,693 - WARNING - Không thể tải ảnh 350d4cdc7ba40b87541691005bda74c5 từ bất kỳ server nào.
+2026-04-29 16:09:29,524 - WARNING - Không thể tải ảnh 2c5cdee36e5b98ec3f795c6f9df4ffc8 từ bất kỳ server nào.
+2026-04-29 16:09:31,418 - WARNING - Không thể tải ảnh f44e615f797f93e5634bc97d3961fd39 từ bất kỳ server nào.
+2026-04-29 16:09:33,008 - WARNING - Không thể tải ảnh f5dea1724656a489b28cf2b7369c6e89 từ bất kỳ server nào.
+2026-04-29 16:09:33,009 - ERROR - Render Job c0b72b83-5a60-4884-a381-eb361e6855c7 thất bại.
+2026-04-29 16:10:10,235 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:10:10,236 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:10:20,330 - INFO - --- Bắt đầu Job: 0131e1eb-fccf-49a9-b7f2-f5d324dbd8dd ---
+2026-04-29 16:10:20,997 - INFO - Đang truy quét ảnh sản phẩm (Chế độ SIÊU CHẶT CHẼ): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:10:26,959 - INFO - KẾT QUẢ: Đã lọc sạch rác. Còn lại 10 ảnh thật.
+2026-04-29 16:10:26,960 - INFO - 📸 Ảnh 1: https://down-vn.img.susercontent.com/file/sg-11134201-22110-z13s3of6omjv78
+2026-04-29 16:10:26,960 - INFO - 📸 Ảnh 2: https://down-vn.img.susercontent.com/file/sg-11134201-22110-e38uggaoqmjv73
+2026-04-29 16:10:26,960 - INFO - 📸 Ảnh 3: https://down-vn.img.susercontent.com/file/sg-11134201-22110-g73l0h5nqmjve8
+2026-04-29 16:10:26,960 - INFO - 📸 Ảnh 4: https://down-vn.img.susercontent.com/file/sg-11134201-22110-nngpmpf6omjv3a
+2026-04-29 16:10:26,960 - INFO - 📸 Ảnh 5: https://down-vn.img.susercontent.com/file/sg-11134201-22110-j9x0kcf6omjv51
+2026-04-29 16:10:26,960 - INFO - 📸 Ảnh 6: https://down-vn.img.susercontent.com/file/sg-11134201-22110-o4144pe6omjv49
+2026-04-29 16:10:26,960 - INFO - 📸 Ảnh 7: https://down-vn.img.susercontent.com/file/vn-11134258-81ztc-mnd7ib2ncqgz93
+2026-04-29 16:10:26,960 - INFO - 📸 Ảnh 8: https://down-vn.img.susercontent.com/file/vn-11134216-820l4-mfigu674h15b5d
+2026-04-29 16:10:26,961 - INFO - 📸 Ảnh 9: https://down-vn.img.susercontent.com/file/vn-11134258-7ras8-m477foi6ss0ff7
+2026-04-29 16:10:26,961 - INFO - 📸 Ảnh 10: https://down-vn.img.susercontent.com/file/vn-11134258-7ras8-m1ml7ywc9y9r4d
+2026-04-29 16:10:27,352 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:10:27,353 - INFO - Đang dựng video 15s cho Job 0131e1eb-fccf-49a9-b7f2-f5d324dbd8dd...
+2026-04-29 16:10:27,742 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-z13s3of6omjv78
+2026-04-29 16:10:28,211 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-e38uggaoqmjv73
+2026-04-29 16:10:28,718 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-g73l0h5nqmjve8
+2026-04-29 16:10:29,092 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-nngpmpf6omjv3a
+2026-04-29 16:10:29,639 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-j9x0kcf6omjv51
+2026-04-29 16:10:30,168 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-o4144pe6omjv49
+2026-04-29 16:10:30,441 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: vn-11134258-81ztc-mnd7ib2ncqgz93
+2026-04-29 16:10:30,735 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: vn-11134216-820l4-mfigu674h15b5d
+2026-04-29 16:10:31,045 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: vn-11134258-7ras8-m477foi6ss0ff7
+2026-04-29 16:10:31,351 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: vn-11134258-7ras8-m1ml7ywc9y9r4d
+2026-04-29 16:10:31,878 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_0131e1eb-fccf-49a9-b7f2-f5d324dbd8dd.mp4
+2026-04-29 16:10:38,884 - INFO - Hoàn thành Job 0131e1eb-fccf-49a9-b7f2-f5d324dbd8dd rực rỡ!
+2026-04-29 16:10:58,948 - INFO - --- Bắt đầu Job: 6e4dd770-84ee-401d-8626-5b5d87abf107 ---
+2026-04-29 16:10:59,627 - INFO - Đang truy quét ảnh sản phẩm (Chế độ SIÊU CHẶT CHẼ): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:11:05,978 - INFO - KẾT QUẢ: Đã lọc sạch rác. Còn lại 10 ảnh thật.
+2026-04-29 16:11:05,985 - INFO - 📸 Ảnh 1: https://down-vn.img.susercontent.com/file/sg-11134201-22110-z13s3of6omjv78
+2026-04-29 16:11:05,985 - INFO - 📸 Ảnh 2: https://down-vn.img.susercontent.com/file/sg-11134201-22110-e38uggaoqmjv73
+2026-04-29 16:11:05,986 - INFO - 📸 Ảnh 3: https://down-vn.img.susercontent.com/file/sg-11134201-22110-g73l0h5nqmjve8
+2026-04-29 16:11:05,986 - INFO - 📸 Ảnh 4: https://down-vn.img.susercontent.com/file/sg-11134201-22110-nngpmpf6omjv3a
+2026-04-29 16:11:05,986 - INFO - 📸 Ảnh 5: https://down-vn.img.susercontent.com/file/sg-11134201-22110-j9x0kcf6omjv51
+2026-04-29 16:11:05,986 - INFO - 📸 Ảnh 6: https://down-vn.img.susercontent.com/file/sg-11134201-22110-o4144pe6omjv49
+2026-04-29 16:11:05,986 - INFO - 📸 Ảnh 7: https://down-vn.img.susercontent.com/file/vn-11134258-81ztc-mnd7ib2ncqgz93
+2026-04-29 16:11:05,986 - INFO - 📸 Ảnh 8: https://down-vn.img.susercontent.com/file/vn-11134216-820l4-mfigu674h15b5d
+2026-04-29 16:11:05,986 - INFO - 📸 Ảnh 9: https://down-vn.img.susercontent.com/file/vn-11134258-7ras8-m477foi6ss0ff7
+2026-04-29 16:11:05,986 - INFO - 📸 Ảnh 10: https://down-vn.img.susercontent.com/file/vn-11134258-7ras8-m1ml7ywc9y9r4d
+2026-04-29 16:11:06,174 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:11:06,175 - INFO - Đang dựng video 15s cho Job 6e4dd770-84ee-401d-8626-5b5d87abf107...
+2026-04-29 16:11:06,723 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-z13s3of6omjv78
+2026-04-29 16:11:07,313 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-e38uggaoqmjv73
+2026-04-29 16:11:07,838 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-g73l0h5nqmjve8
+2026-04-29 16:11:08,278 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-nngpmpf6omjv3a
+2026-04-29 16:11:08,754 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-j9x0kcf6omjv51
+2026-04-29 16:11:09,169 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: sg-11134201-22110-o4144pe6omjv49
+2026-04-29 16:11:09,528 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: vn-11134258-81ztc-mnd7ib2ncqgz93
+2026-04-29 16:11:09,871 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: vn-11134216-820l4-mfigu674h15b5d
+2026-04-29 16:11:10,202 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: vn-11134258-7ras8-m477foi6ss0ff7
+2026-04-29 16:11:10,487 - INFO - ✅ Tải thành công từ https://down-vn.img.susercontent.com/file/: vn-11134258-7ras8-m1ml7ywc9y9r4d
+2026-04-29 16:11:10,973 - INFO - Đang xuất video 15s: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs\video_6e4dd770-84ee-401d-8626-5b5d87abf107.mp4
+2026-04-29 16:11:17,721 - INFO - Hoàn thành Job 6e4dd770-84ee-401d-8626-5b5d87abf107 rực rỡ!
+2026-04-29 16:23:27,944 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:23:27,944 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:23:43,014 - INFO - --- Bắt đầu Job: 9fd9d59c-6210-4df4-ad19-f15bed66578d ---
+2026-04-29 16:23:43,721 - INFO - Đang truy quét Desktop Mode (Chiến thuật Flex Card): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:24:31,023 - INFO - KẾT QUẢ DESKTOP: Đã lọc được 0 ảnh XỊN.
+2026-04-29 16:24:53,249 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:24:53,249 - INFO - Đang dựng video 15s cho Job 9fd9d59c-6210-4df4-ad19-f15bed66578d...
+2026-04-29 16:24:53,249 - ERROR - Render Job 9fd9d59c-6210-4df4-ad19-f15bed66578d thất bại.
+2026-04-29 16:26:57,353 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:26:57,353 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:27:02,404 - INFO - --- Bắt đầu Job: 7c947c49-d933-46fc-a0c3-fb398bef57a2 ---
+2026-04-29 16:27:03,052 - INFO - Đang bốc ảnh từ các Container chuẩn (jA1mTx, UkIsx8): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:27:47,599 - INFO - KẾT QUẢ: Đã bốc thành công 0 ảnh chính chủ.
+2026-04-29 16:27:55,124 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:27:55,124 - INFO - Đang dựng video 15s cho Job 7c947c49-d933-46fc-a0c3-fb398bef57a2...
+2026-04-29 16:27:55,124 - ERROR - Render Job 7c947c49-d933-46fc-a0c3-fb398bef57a2 thất bại.
+2026-04-29 16:29:19,215 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:29:19,217 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:29:29,278 - INFO - --- Bắt đầu Job: fd5ac687-e77e-43c1-b697-bb1746c6a5ed ---
+2026-04-29 16:29:29,931 - INFO - Đang quét toàn trang bằng bộ lọc DNA Shopee: https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:30:14,905 - INFO - KẾT QUẢ: Đã tìm thấy 0 ảnh chuẩn định dạng.
+2026-04-29 16:30:27,540 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:30:27,540 - INFO - Đang dựng video 15s cho Job fd5ac687-e77e-43c1-b697-bb1746c6a5ed...
+2026-04-29 16:30:27,540 - ERROR - Render Job fd5ac687-e77e-43c1-b697-bb1746c6a5ed thất bại.
+2026-04-29 16:41:01,032 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:41:01,033 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:41:11,119 - INFO - --- Bắt đầu Job: e2175117-7bcc-4fb8-87d0-4c8b272c8440 ---
+2026-04-29 16:41:11,916 - INFO - Đang thực hiện chiến thuật 'Click & Dialog': https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:41:59,777 - ERROR - Lỗi: ReferenceError: image_urls is not defined
+    at eval (eval at evaluate (:226:30), <anonymous>:26:43)
+    at UtilityScript.evaluate (<anonymous>:233:19)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+2026-04-29 16:41:59,878 - ERROR - Không thể cào dữ liệu sản phẩm.
+2026-04-29 16:44:06,473 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:44:06,474 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:44:16,517 - INFO - --- Bắt đầu Job: 29384a54-049e-44f7-a9be-22aae4a5e902 ---
+2026-04-29 16:44:17,242 - INFO - Đang bốc ảnh từ Section chính (Chiến thuật Isolated Block): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:45:01,785 - INFO - KẾT QUẢ: Đã bốc được 0 ảnh CHÍNH CHỦ từ Section.
+2026-04-29 16:45:06,656 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:45:06,656 - INFO - Đang dựng video 15s cho Job 29384a54-049e-44f7-a9be-22aae4a5e902...
+2026-04-29 16:45:06,657 - ERROR - Render Job 29384a54-049e-44f7-a9be-22aae4a5e902 thất bại.
+2026-04-29 16:46:51,844 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:46:51,845 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:47:26,931 - INFO - --- Bắt đầu Job: 278dc37e-12ac-4b79-a899-71769763d1c6 ---
+2026-04-29 16:47:27,671 - INFO - Đang truy quét diện rộng (Bộ lọc DNA Shopee): https://shopee.vn/M%C3%A1y-N%C6%B0%E1%BB%9Bng-B%C3%A1nh-M%C3%A1y-L%C3%A0m-B%C3%A1nh-K%E1%BA%B9p-M%C3%A1y-L%C3%A0m-B%C3%A1nh-Qu%E1%BA%BF-B%C3%A1nh-T%E1%BB%95-Ong-M%C3%A1y-l%C3%A0m-b%C3%A1nh-waffle-Cao-c%E1%BA%A5p-i.1171350084.27562872349
+2026-04-29 16:48:15,249 - INFO - Tiêu đề trang hiện tại: Shopee Việt Nam | Hot Deals, Best Prices
+2026-04-29 16:48:15,249 - ERROR - ❌ Shopee yêu cầu xác minh (Captcha). Vui lòng thử lại sau.
+2026-04-29 16:48:15,330 - ERROR - Không thể cào dữ liệu sản phẩm.
+2026-04-29 16:48:50,448 - INFO - --- Bắt đầu Job: 58664cef-f734-4f18-92c5-dda0f9dc15b8 ---
+2026-04-29 16:48:51,186 - INFO - Đang truy quét diện rộng (Bộ lọc DNA Shopee): https://shopee.vn/T%E1%BA%A9y-xoong-n%E1%BB%93i-si%C3%AAu-s%E1%BA%A1ch-t%E1%BA%A9y-n%E1%BB%93i-si%C3%AAu-s%E1%BA%A1ch-t%E1%BA%A9y-xoong-n%E1%BB%93i-n%C6%B0%E1%BB%9Bc-t%E1%BA%A9y-n%E1%BB%93i-xoong-500ml-TH0071-i.1171350084.28472175857?extraParams=%7B%22display_model_id%22%3A223654201011%2C%22model_selection_logic%22%3Anull%7D
+2026-04-29 16:49:38,831 - INFO - Tiêu đề trang hiện tại: Shopee Việt Nam | Hot Deals, Best Prices
+2026-04-29 16:49:38,831 - ERROR - ❌ Shopee yêu cầu xác minh (Captcha). Vui lòng thử lại sau.
+2026-04-29 16:49:38,901 - ERROR - Không thể cào dữ liệu sản phẩm.
+2026-04-29 16:51:00,517 - INFO - MediaEngine initialized. Output: E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.API\wwwroot\outputs
+2026-04-29 16:51:00,518 - INFO - Worker đang lắng nghe Job...
+2026-04-29 16:51:05,561 - INFO - --- Bắt đầu Job: 12486b12-e45b-47d6-aa00-9c62be6d6170 ---
+2026-04-29 16:51:06,243 - INFO - Đang thực hiện 'Hành trình người dùng' để lách Captcha...
+2026-04-29 16:51:50,729 - INFO - Đang chuyển hướng sang sản phẩm: https://shopee.vn/T%E1%BA%A9y-xoong-n%E1%BB%93i-si%C3%AAu-s%E1%BA%A1ch-t%E1%BA%A9y-n%E1%BB%93i-si%C3%AAu-s%E1%BA%A1ch-t%E1%BA%A9y-xoong-n%E1%BB%93i-n%C6%B0%E1%BB%9Bc-t%E1%BA%A9y-n%E1%BB%93i-xoong-500ml-TH0071-i.1171350084.28472175857?extraParams=%7B%22display_model_id%22%3A223654201011%2C%22model_selection_logic%22%3Anull%7D
+2026-04-29 16:52:35,936 - INFO - Tiêu đề trang: Shopee Việt Nam | Hot Deals, Best Prices
+2026-04-29 16:52:35,936 - WARNING - ⚠️ Vẫn gặp trang xác minh. Đang thử cuộn trang để tự giải...
+2026-04-29 16:52:38,964 - WARNING - ⚠️ Không bốc được ảnh. Shopee vẫn đang chặn hoặc trang không load được ảnh.
+2026-04-29 16:52:46,835 - INFO - Đã sinh xong kịch bản AI.
+2026-04-29 16:52:46,837 - INFO - Đang dựng video 15s cho Job 12486b12-e45b-47d6-aa00-9c62be6d6170...
+2026-04-29 16:52:46,837 - ERROR - Render Job 12486b12-e45b-47d6-aa00-9c62be6d6170 thất bại.

@@ -1,0 +1,12 @@
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\bin\Debug\net9.0\Affiliate.Core.deps.json
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\bin\Debug\net9.0\Affiliate.Core.dll
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\bin\Debug\net9.0\Affiliate.Core.pdb
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\obj\Debug\net9.0\Affiliate.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\obj\Debug\net9.0\Affiliate.Core.AssemblyInfoInputs.cache
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\obj\Debug\net9.0\Affiliate.Core.AssemblyInfo.cs
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\obj\Debug\net9.0\Affiliate.Core.csproj.CoreCompileInputs.cache
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\obj\Debug\net9.0\Affiliate.Core.sourcelink.json
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\obj\Debug\net9.0\Affiliate.Core.dll
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\obj\Debug\net9.0\refint\Affiliate.Core.dll
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\obj\Debug\net9.0\Affiliate.Core.pdb
+E:\SONNNT\Afiliate\Affiliate Automation Suite\Application\Backend\src\Affiliate.Core\obj\Debug\net9.0\ref\Affiliate.Core.dll
